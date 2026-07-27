@@ -12,7 +12,7 @@ Welcome to my portfolio! This repository showcases my data analytics and busines
 - Business recommendations
 
 🔗 Repository:
-https://github.com/<kaartikchugh18>/powerbi-telco-customer-churn-analysis
+https://github.com/kaartikchugh18/powerbi-telco-customer-churn-analysis
 
 ---
 
@@ -24,7 +24,7 @@ https://github.com/<kaartikchugh18>/powerbi-telco-customer-churn-analysis
 - Sales Trend Analysis
 
 🔗 Repository:
-https://github.com/<kaartikchugh18>/excel-walmart-sales-dashboard
+https://github.com/kaartikchugh18/excel-walmart-sales-dashboard
 
 ---
 
