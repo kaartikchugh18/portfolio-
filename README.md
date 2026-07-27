@@ -1,81 +1,41 @@
-# 👋 Hi, I'm Kaartik Chugh
+# 👋 Kaartik Chugh – Data Analytics Portfolio
 
-## Business Analyst | Data Analyst | MBA Candidate
+Welcome to my portfolio! This repository showcases my data analytics and business intelligence projects.
 
-Welcome to my Data Analytics Portfolio!
+## 📂 Projects
 
-I am an MBA candidate with over 2 years of professional experience in Insurance Operations at Genpact. I enjoy solving business problems using data and building interactive dashboards that support data-driven decision-making.
+### 📊 Power BI
+#### Telco Customer Churn Analysis Dashboard
+- Interactive dashboard built using Power BI
+- Power Query for data transformation
+- DAX measures and KPIs
+- Business recommendations
 
-This repository serves as an index to my analytics projects.
-
----
-
-# 📂 Featured Projects
-
-## 📊 Power BI
-
-### Telco Customer Churn Analysis Dashboard
-- Interactive Power BI Dashboard
-- Power Query for Data Transformation
-- DAX Measures & KPIs
-- Business Insights & Recommendations
-
-**Skills:** Power BI, DAX, Power Query, Data Visualization, Business Intelligence
+🔗 Repository:
+https://github.com/<your-username>/powerbi-telco-customer-churn-analysis
 
 ---
 
-## 📈 Microsoft Excel
-
-### Walmart Sales Performance Dashboard
-- Interactive Excel Dashboard
+### 📈 Microsoft Excel
+#### Walmart Sales Performance Dashboard
+- Interactive Excel dashboard
 - Pivot Tables & Pivot Charts
 - KPI Reporting
-- Business Analysis
+- Sales Trend Analysis
 
-**Skills:** Microsoft Excel, Pivot Tables, Dashboard Development, Data Analysis
-
----
-
-## 🚀 Upcoming Projects
-
-- SQL Data Analysis Projects
-- Python (Pandas) Data Analytics Projects
-- Tableau Dashboards
-- Business Case Studies
+🔗 Repository:
+https://github.com/<your-username>/excel-walmart-sales-dashboard
 
 ---
 
-# 🛠️ Technical Skills
+## 🛠️ Skills
 
 - Power BI
 - DAX
 - Power Query
 - Microsoft Excel
-- SQL
-- Python
 - Data Analysis
 - Data Visualization
-- Dashboard Development
 - Business Intelligence
 
----
-
-# 📜 Certifications
-
-- Microsoft Power BI
-- Data Analytics
-- Business Intelligence
-- Generative AI
-- Insurance Domain Certifications
-
----
-
-# 📫 Connect with Me
-
-**LinkedIn:** *(Add your LinkedIn profile link here)*
-
-**GitHub:** *(Add your GitHub profile link here)*
-
----
-
-⭐ Thank you for visiting my portfolio! More analytics projects will be added as I continue learning and building.
+More projects will be added soon!
